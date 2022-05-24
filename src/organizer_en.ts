@@ -2271,96 +2271,96 @@ This is likely due to a corrupted or incompatible download or unrecognized archi
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="400"/>
+        <location filename="instancemanagerdialog.cpp" line="399"/>
         <source>Switching instances</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="401"/>
+        <location filename="instancemanagerdialog.cpp" line="400"/>
         <source>Mod Organizer must restart to manage the instance &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="403"/>
+        <location filename="instancemanagerdialog.cpp" line="402"/>
         <source>This confirmation can be disabled in the settings.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="405"/>
+        <location filename="instancemanagerdialog.cpp" line="404"/>
         <source>Restart Mod Organizer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="406"/>
-        <location filename="instancemanagerdialog.cpp" line="523"/>
+        <location filename="instancemanagerdialog.cpp" line="405"/>
+        <location filename="instancemanagerdialog.cpp" line="522"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="423"/>
-        <location filename="instancemanagerdialog.cpp" line="429"/>
+        <location filename="instancemanagerdialog.cpp" line="422"/>
+        <location filename="instancemanagerdialog.cpp" line="428"/>
         <source>Rename instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="424"/>
+        <location filename="instancemanagerdialog.cpp" line="423"/>
         <source>The active instance cannot be renamed.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="430"/>
+        <location filename="instancemanagerdialog.cpp" line="429"/>
         <source>Instance name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="446"/>
+        <location filename="instancemanagerdialog.cpp" line="445"/>
         <source>Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="447"/>
+        <location filename="instancemanagerdialog.cpp" line="446"/>
         <source>Failed to rename &quot;%1&quot; to &quot;%2&quot;: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="502"/>
-        <location filename="instancemanagerdialog.cpp" line="517"/>
-        <location filename="instancemanagerdialog.cpp" line="569"/>
+        <location filename="instancemanagerdialog.cpp" line="501"/>
+        <location filename="instancemanagerdialog.cpp" line="516"/>
+        <location filename="instancemanagerdialog.cpp" line="568"/>
         <source>Deleting instance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="503"/>
+        <location filename="instancemanagerdialog.cpp" line="502"/>
         <source>The active instance cannot be deleted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="518"/>
+        <location filename="instancemanagerdialog.cpp" line="517"/>
         <source>These files and folders will be deleted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="519"/>
+        <location filename="instancemanagerdialog.cpp" line="518"/>
         <source>All checked items will be deleted.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="521"/>
+        <location filename="instancemanagerdialog.cpp" line="520"/>
         <source>Move to the recycle bin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="522"/>
+        <location filename="instancemanagerdialog.cpp" line="521"/>
         <source>Delete permanently</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="569"/>
+        <location filename="instancemanagerdialog.cpp" line="568"/>
         <source>Nothing to delete.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="701"/>
+        <location filename="instancemanagerdialog.cpp" line="700"/>
         <source>A portable instance already exists.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4120,12 +4120,12 @@ p, li { white-space: pre-wrap; }
 <context>
     <name>ModInfoRegular</name>
     <message>
-        <location filename="modinforegular.cpp" line="726"/>
+        <location filename="modinforegular.cpp" line="725"/>
         <source>%1 contains no esp/esm/esl and no asset (textures, meshes, interface, ...) directory</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="modinforegular.cpp" line="732"/>
+        <location filename="modinforegular.cpp" line="731"/>
         <source>Categories: &lt;br&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5622,55 +5622,6 @@ Continue?</source>
     </message>
 </context>
 <context>
-    <name>PluginContainer</name>
-    <message>
-        <location filename="plugincontainer.cpp" line="842"/>
-        <source>Plugin error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="843"/>
-        <source>Mod Organizer failed to load the plugin &apos;%1&apos; last time it was started.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="846"/>
-        <source>The plugin can be skipped for this session, blacklisted, or loaded normally, in which case it might fail again. Blacklisted plugins can be re-enabled later in the settings.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="851"/>
-        <source>Skip this plugin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="852"/>
-        <source>Blacklist this plugin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="853"/>
-        <source>Load this plugin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="951"/>
-        <source>Some plugins could not be loaded</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="954"/>
-        <location filename="plugincontainer.cpp" line="974"/>
-        <source>Description missing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="964"/>
-        <source>The following plugins could not be loaded. The reason may be missing dependencies (i.e. python) or an outdated version:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>PluginList</name>
     <message>
         <location filename="pluginlist.cpp" line="92"/>
@@ -5985,44 +5936,6 @@ Continue?</source>
     </message>
 </context>
 <context>
-    <name>PluginTypeName</name>
-    <message>
-        <location filename="plugincontainer.cpp" line="95"/>
-        <source>Diagnose</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="100"/>
-        <source>Game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="105"/>
-        <source>Installer</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="110"/>
-        <source>Mod Page</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="115"/>
-        <source>Preview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="120"/>
-        <source>Tool</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="125"/>
-        <source>File Mapper</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>PreviewDialog</name>
     <message>
         <location filename="previewdialog.ui" line="14"/>
@@ -6057,18 +5970,18 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="problemsdialog.cpp" line="59"/>
-        <location filename="problemsdialog.cpp" line="60"/>
+        <location filename="problemsdialog.cpp" line="57"/>
+        <location filename="problemsdialog.cpp" line="58"/>
         <source>Fix</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="problemsdialog.cpp" line="67"/>
+        <location filename="problemsdialog.cpp" line="65"/>
         <source>No guided fix</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="problemsdialog.cpp" line="75"/>
+        <location filename="problemsdialog.cpp" line="73"/>
         <source>(There are no notifications)</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6868,12 +6781,12 @@ Destination:<byte value="xd"/>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="112"/>
+        <location filename="instancemanagerdialog.cpp" line="111"/>
         <source>The instance name must be a valid folder name.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="instancemanagerdialog.cpp" line="117"/>
+        <location filename="instancemanagerdialog.cpp" line="116"/>
         <source>An instance with this name already exists.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7153,11 +7066,6 @@ Destination:<byte value="xd"/>
     <message>
         <location filename="organizercore.cpp" line="411"/>
         <source>One of the configured MO2 directories (profiles, mods, or overwrite) is on a path containing a symbolic (or other) link. This is likely to be incompatible with MO2&apos;s virtual filesystem.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="plugincontainer.cpp" line="590"/>
-        <source>failed to initialize plugin %1: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8768,14 +8676,6 @@ For the other games this is not a sufficient replacement for AI!</source>
     <message>
         <location filename="syncoverwritedialog.cpp" line="160"/>
         <source>failed to move %1 to %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>T</name>
-    <message>
-        <location filename="plugincontainer.cpp" line="90"/>
-        <source>Plugin</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
